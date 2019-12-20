@@ -1,0 +1,25 @@
+html,
+body {
+	font-family: 'Roboto', sans-serif;
+	background-image: url(https://partycity6.scene7.com/is/image/PartyCity/_pdp_sq_?$_1000x1000_$&$product=PartyCity/248607);
+	background-repeat: no-repeat;
+	background-size: 400px;
+	background-position: bottom;
+}
+
+#tweetimg {
+	width: 584px;
+	height: 306px;
+	background-image: url(trump.png);
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-color: rgb(255, 255, 255);
+	text-align: left;
+}
+
+#para {
+	padding-top: 15%;
+	padding-bottom: 15%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
